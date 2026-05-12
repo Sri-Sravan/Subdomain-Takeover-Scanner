@@ -35,12 +35,12 @@ Make sure `~/go/bin` is in your PATH.
 ## Usage
 
 ```bash
-chmod +x scan.sh
-./scan.sh <domain>
+chmod +x sdt-scan.sh
+./sdt-scan.sh <domain>
 ```
 
 ```bash
-./scan.sh example.com
+./sdt-scan.sh example.com
 ```
 
 ---
