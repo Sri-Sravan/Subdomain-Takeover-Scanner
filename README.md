@@ -1,4 +1,4 @@
-Subdomain takeover vulnerability scanner.
+# Subdomain takeover vulnerability scanner.
 
 Enumerates subdomains, resolves DNS, identifies dangling CNAMEs, fingerprints vulnerable services, and writes a structured report — all in one bash script.
 
